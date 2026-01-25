@@ -1,6 +1,6 @@
 ## Olá! Eu sou Edilson👋
 
-Sou estudante do curso de Informática na Universidade Rovuma, em Nacala-Porto, em Nampula-Moçabique.
+Sou estudante do curso de Informática na Universidade Rovuma.
 Tenho desenvolvido projetos escolares que me ajudam a aumentar meu conhecimento na área de programação
 de computadores. Tenho conhecimento nas linguagens de progrmação como:
 - Pascal
