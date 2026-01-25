@@ -1,15 +1,25 @@
 ## Olá! Eu sou Edilson👋
 
-Sou estudante do curso de Informática na Universidade Rovuma.
-Tenho desenvolvido projetos escolares que me ajudam a aumentar meu conhecimento na área de programação
-de computadores. Tenho conhecimento nas linguagens de progrmação como:
-- Pascal
-- C, C++
-- Java (POO)
-- Haskel
-  
-I am a student and programmer in the following languages:  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" /> 
-## 
+Sou estudante do curso de Informática.
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="eddy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="eddy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="eddy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="eddy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="eddy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="eddy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="eddy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="eddy-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
 
+<div><br>
+  <a href="https://github.com/Edilson24">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilson24&show_icons=true&theme=radical&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson24&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
+<div>
+  <a href="https://instagram.com/edilson_hilario24" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "www.edilsonhilario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
