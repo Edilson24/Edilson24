@@ -13,7 +13,7 @@ Sou estudante do curso de Informática.
   <img align="right" alt="eddy-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
-<div><br>
+<div display: flex><br>
   <a href="https://github.com/Edilson24">
   <img height="180em" width=450em src="https://github-readme-stats.vercel.app/api?username=Edilson24&show_icons=true&theme=radical&hide=contribs"/>
   <img height="180em" width=430em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson24&layout=compact&langs_count=16&theme=radical"/>
