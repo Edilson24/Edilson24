@@ -15,8 +15,8 @@ Sou estudante do curso de Informática.
 
 <div><br>
   <a href="https://github.com/Edilson24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edilson24&show_icons=true&theme=radical&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson24&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" width=450em src="https://github-readme-stats.vercel.app/api?username=Edilson24&show_icons=true&theme=radical&hide=contribs"/>
+  <img height="180em" width=430em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson24&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div>
