@@ -13,12 +13,6 @@ Sou estudante do curso de Informática.
   <img align="center" alt="eddy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div display: flex><br>
-  <a href="https://github.com/Edilson24">
-  <img height="180em" width=400em src="https://github-readme-stats.vercel.app/api?username=Edilson24&show_icons=true&theme=radical&hide=contribs"/>
-  <img height="180em" width=375em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edilson24&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
 <div>
   <a href="https://instagram.com/edilson_hilario24" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "www.edilsonhilario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
