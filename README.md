@@ -17,4 +17,5 @@ Sou estudante de Informática e programador.
 <div>
   <a href="https://instagram.com/edilson_hilario24" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "www.edilsonhilario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "www.linkedin.com/in/edilson-hilario-1200b3235"><img src="https://img.shields.io/badge/Linkedin-2588FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
